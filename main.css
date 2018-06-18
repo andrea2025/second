@@ -9,3 +9,21 @@
 	color:white;
 	padding-left:  25px;
 }
+#space2 {
+	padding: 10px 25px;
+	display: flex;
+}
+.b {
+	height: 100px;
+	color: white;
+	padding: 100px 20px
+
+}
+.sidebar {
+	margin-left: 20px;
+	background: blue;
+}
+.content {
+	background: yellow;
+	color: black;
+}
